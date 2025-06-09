@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "libreboard")(type "KiCad")(uri "${KIPRJMOD}/libreboard.kicad_sym")(options "")(descr ""))
   (lib (name "emberone")(type "KiCad")(uri "${KIPRJMOD}/emberone.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_SM04B-SRSS-TB_JST")(type "KiCad")(uri "${KIPRJMOD}/CONN_SM04B-SRSS-TB_JST.kicad_sym")(options "")(descr ""))
 )
