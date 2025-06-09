@@ -22269,7 +22269,7 @@
 			(uuid "9e2bb0b3-a3d9-4162-b2a5-354ad814a376")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/libreboard.3dshapes/SRP5030CC.stp"
+		(model "${KIPRJMOD}/libreboard.3dshapes/SRP5030CA.stp"
 			(offset
 				(xyz 0 0 0)
 			)
